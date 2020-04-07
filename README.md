@@ -7,8 +7,8 @@ This is a small youtube home page mockup done using vanilla CSS and HTML as part
    
 ### Mockup Screen (Created via Adobe Xd)
 #### Video Sample
-![Homepage HamMenu Animation](/Screenshots/video.gif?raw=True HomePageHamburgerMenuAnimation)
+![Homepage HamMenu Animation](/Screenshots/video.gif )
 #### HamMenu ClosedView
-![Homepage - Hamburger Menu Closed](/Screenshots/Home.png?raw=True HomepageClosedMenu)  
+![Homepage - Hamburger Menu Closed](/Screenshots/Home.png?raw=True )  
 #### HamMenu OpenView
-![Homepage - Hamburger Menu Open](/Screenshots/Home%20Transform.png?raw=True HomepageOpenMenu)
+![Homepage - Hamburger Menu Open](/Screenshots/Home%20Transform.png?raw=True )
