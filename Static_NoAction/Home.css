@@ -1,0 +1,2021 @@
+.mediaViewInfo {
+	--web-view-name: Home;
+	--web-view-id: Home;
+	--web-scale-on-resize: true;
+	--web-show-by-media-query: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Home;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Home_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Home;
+	--web-view-id: Home;
+	--web-scale-on-resize: true;
+	--web-show-by-media-query: true;
+	--web-enable-deep-linking: true;
+}
+.template_Class {
+	display: none;
+	position: absolute;
+	width: 1919px;
+	height: 1026px;
+	left: 1px;
+	top: 27px;
+	overflow: visible;
+}
+.Container_Class {
+	position: absolute;
+	width: 1925px;
+	height: 1486px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Left_Pane_Class {
+	position: absolute;
+	width: 272px;
+	height: 893px;
+	left: 2px;
+	top: 67px;
+	overflow: visible;
+}
+.videostack_Class {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 28px;
+	top: 317px;
+	overflow: visible;
+}
+.history_Class {
+	position: absolute;
+	width: 33px;
+	height: 30px;
+	left: 27px;
+	top: 380px;
+	overflow: visible;
+}
+.watch_later_Class {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 28px;
+	top: 567px;
+	overflow: visible;
+}
+.purchase_Class {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 28px;
+	top: 505px;
+	overflow: visible;
+}
+.yt_bw_Class {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 28px;
+	top: 442px;
+	overflow: visible;
+}
+.yt_bw_o_Class {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 28px;
+	top: 209px;
+	overflow: visible;
+}
+.Trending_Class {
+	position: absolute;
+	left: 85px;
+	top: 75px;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.Subscriptions_Class {
+	position: absolute;
+	left: 85px;
+	top: 143px;
+	overflow: visible;
+	width: 127px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.Originals_Class {
+	position: absolute;
+	left: 85px;
+	top: 210px;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.Library_Class {
+	position: absolute;
+	left: 85px;
+	top: 315px;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.History_t_Class {
+	position: absolute;
+	left: 85px;
+	top: 378px;
+	overflow: visible;
+	width: 71px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.Your_Videos_Class {
+	position: absolute;
+	left: 85px;
+	top: 442px;
+	overflow: visible;
+	width: 113px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.Purchases_Class {
+	position: absolute;
+	left: 85px;
+	top: 505px;
+	overflow: visible;
+	width: 95px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.Watch_Later_w_Class {
+	position: absolute;
+	left: 85px;
+	top: 568px;
+	overflow: visible;
+	width: 113px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 263px;
+	height: 1px;
+	left: 0.5px;
+	top: 295.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_2 {
+	overflow: visible;
+	position: absolute;
+	width: 263px;
+	height: 1px;
+	left: 0.5px;
+	top: 631.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.trending_Class {
+	position: absolute;
+	width: 36px;
+	height: 36px;
+	left: 22px;
+	top: 75px;
+	overflow: visible;
+}
+.Image_3_Class {
+	position: absolute;
+	width: 39px;
+	height: 29px;
+	left: 24px;
+	top: 146px;
+	overflow: visible;
+}
+.home_Class {
+	position: absolute;
+	width: 272px;
+	height: 55px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 272px;
+	height: 55px;
+	left: 0px;
+	top: 0px;
+}
+.Home__Class {
+	position: absolute;
+	left: 85px;
+	top: 8px;
+	overflow: visible;
+	width: 57px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.home__Class {
+	position: absolute;
+	width: 31px;
+	height: 29px;
+	left: 28px;
+	top: 12px;
+	overflow: visible;
+}
+.Subs_Class {
+	position: absolute;
+	width: 236px;
+	height: 253px;
+	left: 25px;
+	top: 640px;
+	overflow: visible;
+}
+.Mr_Bean_Class {
+	position: absolute;
+	left: 60px;
+	top: 45px;
+	overflow: visible;
+	width: 79px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.SUBSCRIPTIONS_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 139px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(112,112,112,1);
+}
+.DesignCourse_Class {
+	position: absolute;
+	left: 60px;
+	top: 105px;
+	overflow: visible;
+	width: 131px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.Marques_Brownlee_Class {
+	position: absolute;
+	left: 60px;
+	top: 166px;
+	overflow: visible;
+	width: 177px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.Show__100_More_Class {
+	position: absolute;
+	left: 60px;
+	top: 226px;
+	overflow: visible;
+	width: 153px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.Path_4 {
+	overflow: visible;
+	position: absolute;
+	width: 25.524px;
+	height: 14.176px;
+	left: 16.5px;
+	top: 232.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.mrbean_Class {
+	position: absolute;
+	width: 34px;
+	height: 34px;
+	left: 12px;
+	top: 47px;
+	overflow: visible;
+}
+.designcourse_Class {
+	position: absolute;
+	width: 34px;
+	height: 34px;
+	left: 12px;
+	top: 107px;
+	overflow: visible;
+}
+.mkbhd_Class {
+	position: absolute;
+	width: 34px;
+	height: 34px;
+	left: 12px;
+	top: 166px;
+	overflow: visible;
+}
+.header_Class {
+	position: absolute;
+	width: 1925px;
+	height: 70px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_6 {
+	position: absolute;
+	overflow: visible;
+	width: 1925px;
+	height: 70px;
+	left: 0px;
+	top: 0px;
+}
+.contents_Class {
+	position: absolute;
+	width: 1846.941px;
+	height: 34px;
+	left: 35.059px;
+	top: 18px;
+	overflow: visible;
+}
+.ID9_dots_Class {
+	position: absolute;
+	width: 25px;
+	height: 25px;
+	left: 1704.941px;
+	top: 5px;
+	overflow: visible;
+}
+.bell_Class {
+	position: absolute;
+	width: 24px;
+	height: 21px;
+	left: 1761.941px;
+	top: 7px;
+	overflow: visible;
+}
+.Ham_Menu_Class {
+	position: absolute;
+	width: 20.13px;
+	height: 10px;
+	left: 0px;
+	top: 12px;
+	overflow: visible;
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 20.13px;
+	height: 2px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_2 {
+	overflow: visible;
+	position: absolute;
+	width: 20.13px;
+	height: 2px;
+	left: 0px;
+	top: 5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_3 {
+	overflow: visible;
+	position: absolute;
+	width: 20.13px;
+	height: 2px;
+	left: 0px;
+	top: 10px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.youtube_Class {
+	position: absolute;
+	width: 57px;
+	height: 31px;
+	left: 32.308px;
+	top: 2px;
+	overflow: visible;
+}
+.PremiumIN_Class {
+	position: absolute;
+	left: 89.308px;
+	top: 5.5px;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+}
+.Searchbar_Class {
+	position: absolute;
+	width: 701px;
+	height: 34px;
+	left: 551.164px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 701px;
+	height: 34px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 71px;
+	height: 34px;
+	left: 630px;
+	top: 0px;
+}
+.Search_Class {
+	position: absolute;
+	left: 13px;
+	top: 4px;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(121,121,121,1);
+}
+.search_icon_Class {
+	position: absolute;
+	width: 15.5px;
+	height: 15.5px;
+	left: 660px;
+	top: 6px;
+	overflow: visible;
+}
+.Ellipse_1 {
+	position: absolute;
+	overflow: visible;
+	width: 12px;
+	height: 12px;
+	left: 0px;
+	top: 0px;
+}
+.Line_3 {
+	overflow: visible;
+	position: absolute;
+	width: 6.414px;
+	height: 6.414px;
+	left: 10.5px;
+	top: 10.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Ellipse_2 {
+	position: absolute;
+	overflow: visible;
+	width: 29px;
+	height: 29px;
+	left: 1817.941px;
+	top: 3px;
+}
+.video_Class {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 1640.941px;
+	top: 1px;
+	overflow: visible;
+}
+.body_bg_Class {
+	opacity: 0.74;
+}
+.body_bg {
+	position: absolute;
+	overflow: visible;
+	width: 1647px;
+	height: 1011px;
+	left: 273px;
+	top: 69px;
+}
+.Body_Class {
+	position: absolute;
+	width: 1604px;
+	height: 708px;
+	left: 295px;
+	top: 96px;
+	overflow: visible;
+}
+.Video_1_Class {
+	position: absolute;
+	width: 383px;
+	height: 295px;
+	left: 0px;
+	top: 64px;
+	overflow: visible;
+}
+.Ellipse_3 {
+	position: absolute;
+	overflow: visible;
+	width: 41px;
+	height: 41px;
+	left: 0px;
+	top: 230px;
+}
+.Ellipse_4 {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 129px;
+	top: 284px;
+}
+.Video_Title___Title_of_the_vid_Class {
+	position: absolute;
+	left: 51px;
+	top: 227px;
+	overflow: hidden;
+	width: 283px;
+	height: 27px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Channel_Name_Class {
+	position: absolute;
+	left: 54px;
+	top: 259px;
+	overflow: visible;
+	width: 90px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.ID1M_Views_Class {
+	position: absolute;
+	left: 54px;
+	top: 278px;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.ID1_year_ago_Class {
+	position: absolute;
+	left: 138px;
+	top: 278px;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.Image_2_Class {
+	position: absolute;
+	width: 383px;
+	height: 214px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Video_2_Class {
+	position: absolute;
+	width: 383px;
+	height: 295px;
+	left: 407px;
+	top: 64px;
+	overflow: visible;
+}
+.Ellipse_3_ca {
+	position: absolute;
+	overflow: visible;
+	width: 41px;
+	height: 41px;
+	left: 0px;
+	top: 230px;
+}
+.Ellipse_4_cb {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 129px;
+	top: 284px;
+}
+.Video_Title___Title_of_the_vid_cc_Class {
+	position: absolute;
+	left: 51px;
+	top: 227px;
+	overflow: hidden;
+	width: 283px;
+	height: 27px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Channel_Name_cd_Class {
+	position: absolute;
+	left: 54px;
+	top: 259px;
+	overflow: visible;
+	width: 90px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.ID1M_Views_ce_Class {
+	position: absolute;
+	left: 54px;
+	top: 278px;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.ID1_year_ago_cf_Class {
+	position: absolute;
+	left: 138px;
+	top: 278px;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.Image_2_cg_Class {
+	position: absolute;
+	width: 383px;
+	height: 214px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Video_3_Class {
+	position: absolute;
+	width: 383px;
+	height: 295px;
+	left: 814px;
+	top: 64px;
+	overflow: visible;
+}
+.Ellipse_3_ci {
+	position: absolute;
+	overflow: visible;
+	width: 41px;
+	height: 41px;
+	left: 0px;
+	top: 230px;
+}
+.Ellipse_4_cj {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 129px;
+	top: 284px;
+}
+.Video_Title___Title_of_the_vid_ck_Class {
+	position: absolute;
+	left: 51px;
+	top: 227px;
+	overflow: hidden;
+	width: 283px;
+	height: 27px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Channel_Name_cl_Class {
+	position: absolute;
+	left: 54px;
+	top: 259px;
+	overflow: visible;
+	width: 90px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.ID1M_Views_cm_Class {
+	position: absolute;
+	left: 54px;
+	top: 278px;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.ID1_year_ago_cn_Class {
+	position: absolute;
+	left: 138px;
+	top: 278px;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.Image_2_co_Class {
+	position: absolute;
+	width: 383px;
+	height: 214px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Video_4_Class {
+	position: absolute;
+	width: 383px;
+	height: 295px;
+	left: 1221px;
+	top: 64px;
+	overflow: visible;
+}
+.Ellipse_3_cq {
+	position: absolute;
+	overflow: visible;
+	width: 41px;
+	height: 41px;
+	left: 0px;
+	top: 230px;
+}
+.Ellipse_4_cr {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 129px;
+	top: 284px;
+}
+.Video_Title___Title_of_the_vid_cs_Class {
+	position: absolute;
+	left: 51px;
+	top: 227px;
+	overflow: hidden;
+	width: 283px;
+	height: 27px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Channel_Name_ct_Class {
+	position: absolute;
+	left: 54px;
+	top: 259px;
+	overflow: visible;
+	width: 90px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.ID1M_Views_cu_Class {
+	position: absolute;
+	left: 54px;
+	top: 278px;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.ID1_year_ago_cv_Class {
+	position: absolute;
+	left: 138px;
+	top: 278px;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.Image_2_cw_Class {
+	position: absolute;
+	width: 383px;
+	height: 214px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Video_5_Class {
+	position: absolute;
+	width: 383px;
+	height: 295px;
+	left: 0px;
+	top: 413px;
+	overflow: visible;
+}
+.Ellipse_3_cy {
+	position: absolute;
+	overflow: visible;
+	width: 41px;
+	height: 41px;
+	left: 0px;
+	top: 230px;
+}
+.Ellipse_4_cz {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 129px;
+	top: 284px;
+}
+.Video_Title___Title_of_the_vid_c_Class {
+	position: absolute;
+	left: 51px;
+	top: 227px;
+	overflow: hidden;
+	width: 283px;
+	height: 27px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Channel_Name_c_Class {
+	position: absolute;
+	left: 54px;
+	top: 259px;
+	overflow: visible;
+	width: 90px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.ID1M_Views_c_Class {
+	position: absolute;
+	left: 54px;
+	top: 278px;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.ID1_year_ago_c_Class {
+	position: absolute;
+	left: 138px;
+	top: 278px;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.Image_2_c_Class {
+	position: absolute;
+	width: 383px;
+	height: 214px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Video_6_Class {
+	position: absolute;
+	width: 383px;
+	height: 295px;
+	left: 407px;
+	top: 413px;
+	overflow: visible;
+}
+.Ellipse_3_c {
+	position: absolute;
+	overflow: visible;
+	width: 41px;
+	height: 41px;
+	left: 0px;
+	top: 230px;
+}
+.Ellipse_4_c {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 129px;
+	top: 284px;
+}
+.Video_Title___Title_of_the_vid_da_Class {
+	position: absolute;
+	left: 51px;
+	top: 227px;
+	overflow: hidden;
+	width: 283px;
+	height: 27px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Channel_Name_da_Class {
+	position: absolute;
+	left: 54px;
+	top: 259px;
+	overflow: visible;
+	width: 90px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.ID1M_Views_da_Class {
+	position: absolute;
+	left: 54px;
+	top: 278px;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.ID1_year_ago_db_Class {
+	position: absolute;
+	left: 138px;
+	top: 278px;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.Image_2_dc_Class {
+	position: absolute;
+	width: 383px;
+	height: 214px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Video_7_Class {
+	position: absolute;
+	width: 383px;
+	height: 295px;
+	left: 814px;
+	top: 413px;
+	overflow: visible;
+}
+.Ellipse_3_de {
+	position: absolute;
+	overflow: visible;
+	width: 41px;
+	height: 41px;
+	left: 0px;
+	top: 230px;
+}
+.Ellipse_4_df {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 129px;
+	top: 284px;
+}
+.Video_Title___Title_of_the_vid_dg_Class {
+	position: absolute;
+	left: 51px;
+	top: 227px;
+	overflow: hidden;
+	width: 283px;
+	height: 27px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Channel_Name_dh_Class {
+	position: absolute;
+	left: 54px;
+	top: 259px;
+	overflow: visible;
+	width: 90px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.ID1M_Views_di_Class {
+	position: absolute;
+	left: 54px;
+	top: 278px;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.ID1_year_ago_dj_Class {
+	position: absolute;
+	left: 138px;
+	top: 278px;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.Image_2_dk_Class {
+	position: absolute;
+	width: 383px;
+	height: 214px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Video_8_Class {
+	position: absolute;
+	width: 383px;
+	height: 295px;
+	left: 1221px;
+	top: 413px;
+	overflow: visible;
+}
+.Ellipse_3_dm {
+	position: absolute;
+	overflow: visible;
+	width: 41px;
+	height: 41px;
+	left: 0px;
+	top: 230px;
+}
+.Ellipse_4_dn {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 129px;
+	top: 284px;
+}
+.Video_Title___Title_of_the_vid_do_Class {
+	position: absolute;
+	left: 51px;
+	top: 227px;
+	overflow: hidden;
+	width: 283px;
+	height: 27px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Channel_Name_dp_Class {
+	position: absolute;
+	left: 54px;
+	top: 259px;
+	overflow: visible;
+	width: 90px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.ID1M_Views_dq_Class {
+	position: absolute;
+	left: 54px;
+	top: 278px;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.ID1_year_ago_dr_Class {
+	position: absolute;
+	left: 138px;
+	top: 278px;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.Image_2_ds_Class {
+	position: absolute;
+	width: 383px;
+	height: 214px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Recommended_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 162px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(0,0,0,1);
+}
+.Body_du_Class {
+	position: absolute;
+	width: 1604px;
+	height: 644px;
+	left: 295px;
+	top: 842px;
+	overflow: visible;
+}
+.Video_1_dv_Class {
+	position: absolute;
+	width: 383px;
+	height: 295px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Ellipse_3_dw {
+	position: absolute;
+	overflow: visible;
+	width: 41px;
+	height: 41px;
+	left: 0px;
+	top: 230px;
+}
+.Ellipse_4_dx {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 129px;
+	top: 284px;
+}
+.Video_Title___Title_of_the_vid_dy_Class {
+	position: absolute;
+	left: 51px;
+	top: 227px;
+	overflow: hidden;
+	width: 283px;
+	height: 27px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Channel_Name_dz_Class {
+	position: absolute;
+	left: 54px;
+	top: 259px;
+	overflow: visible;
+	width: 90px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.ID1M_Views_d_Class {
+	position: absolute;
+	left: 54px;
+	top: 278px;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.ID1_year_ago_d_Class {
+	position: absolute;
+	left: 138px;
+	top: 278px;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.Image_2_d_Class {
+	position: absolute;
+	width: 383px;
+	height: 214px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Video_2_d_Class {
+	position: absolute;
+	width: 383px;
+	height: 295px;
+	left: 407px;
+	top: 0px;
+	overflow: visible;
+}
+.Ellipse_3_d {
+	position: absolute;
+	overflow: visible;
+	width: 41px;
+	height: 41px;
+	left: 0px;
+	top: 230px;
+}
+.Ellipse_4_d {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 129px;
+	top: 284px;
+}
+.Video_Title___Title_of_the_vid_d_Class {
+	position: absolute;
+	left: 51px;
+	top: 227px;
+	overflow: hidden;
+	width: 283px;
+	height: 27px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Channel_Name_d_Class {
+	position: absolute;
+	left: 54px;
+	top: 259px;
+	overflow: visible;
+	width: 90px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.ID1M_Views_ea_Class {
+	position: absolute;
+	left: 54px;
+	top: 278px;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.ID1_year_ago_ea_Class {
+	position: absolute;
+	left: 138px;
+	top: 278px;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.Image_2_ea_Class {
+	position: absolute;
+	width: 383px;
+	height: 214px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Video_3_eb_Class {
+	position: absolute;
+	width: 383px;
+	height: 295px;
+	left: 814px;
+	top: 0px;
+	overflow: visible;
+}
+.Ellipse_3_ec {
+	position: absolute;
+	overflow: visible;
+	width: 41px;
+	height: 41px;
+	left: 0px;
+	top: 230px;
+}
+.Ellipse_4_ed {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 129px;
+	top: 284px;
+}
+.Video_Title___Title_of_the_vid_ee_Class {
+	position: absolute;
+	left: 51px;
+	top: 227px;
+	overflow: hidden;
+	width: 283px;
+	height: 27px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Channel_Name_ef_Class {
+	position: absolute;
+	left: 54px;
+	top: 259px;
+	overflow: visible;
+	width: 90px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.ID1M_Views_eg_Class {
+	position: absolute;
+	left: 54px;
+	top: 278px;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.ID1_year_ago_eh_Class {
+	position: absolute;
+	left: 138px;
+	top: 278px;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.Image_2_ei_Class {
+	position: absolute;
+	width: 383px;
+	height: 214px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Video_4_ej_Class {
+	position: absolute;
+	width: 383px;
+	height: 295px;
+	left: 1221px;
+	top: 0px;
+	overflow: visible;
+}
+.Ellipse_3_ek {
+	position: absolute;
+	overflow: visible;
+	width: 41px;
+	height: 41px;
+	left: 0px;
+	top: 230px;
+}
+.Ellipse_4_el {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 129px;
+	top: 284px;
+}
+.Video_Title___Title_of_the_vid_em_Class {
+	position: absolute;
+	left: 51px;
+	top: 227px;
+	overflow: hidden;
+	width: 283px;
+	height: 27px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Channel_Name_en_Class {
+	position: absolute;
+	left: 54px;
+	top: 259px;
+	overflow: visible;
+	width: 90px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.ID1M_Views_eo_Class {
+	position: absolute;
+	left: 54px;
+	top: 278px;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.ID1_year_ago_ep_Class {
+	position: absolute;
+	left: 138px;
+	top: 278px;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.Image_2_eq_Class {
+	position: absolute;
+	width: 383px;
+	height: 214px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Video_5_er_Class {
+	position: absolute;
+	width: 383px;
+	height: 295px;
+	left: 0px;
+	top: 349px;
+	overflow: visible;
+}
+.Ellipse_3_es {
+	position: absolute;
+	overflow: visible;
+	width: 41px;
+	height: 41px;
+	left: 0px;
+	top: 230px;
+}
+.Ellipse_4_et {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 129px;
+	top: 284px;
+}
+.Video_Title___Title_of_the_vid_eu_Class {
+	position: absolute;
+	left: 51px;
+	top: 227px;
+	overflow: hidden;
+	width: 283px;
+	height: 27px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Channel_Name_ev_Class {
+	position: absolute;
+	left: 54px;
+	top: 259px;
+	overflow: visible;
+	width: 90px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.ID1M_Views_ew_Class {
+	position: absolute;
+	left: 54px;
+	top: 278px;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.ID1_year_ago_ex_Class {
+	position: absolute;
+	left: 138px;
+	top: 278px;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.Image_2_ey_Class {
+	position: absolute;
+	width: 383px;
+	height: 214px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Video_6_ez_Class {
+	position: absolute;
+	width: 383px;
+	height: 295px;
+	left: 407px;
+	top: 349px;
+	overflow: visible;
+}
+.Ellipse_3_e {
+	position: absolute;
+	overflow: visible;
+	width: 41px;
+	height: 41px;
+	left: 0px;
+	top: 230px;
+}
+.Ellipse_4_e {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 129px;
+	top: 284px;
+}
+.Video_Title___Title_of_the_vid_e_Class {
+	position: absolute;
+	left: 51px;
+	top: 227px;
+	overflow: hidden;
+	width: 283px;
+	height: 27px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Channel_Name_e_Class {
+	position: absolute;
+	left: 54px;
+	top: 259px;
+	overflow: visible;
+	width: 90px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.ID1M_Views_e_Class {
+	position: absolute;
+	left: 54px;
+	top: 278px;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.ID1_year_ago_e_Class {
+	position: absolute;
+	left: 138px;
+	top: 278px;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.Image_2_e_Class {
+	position: absolute;
+	width: 383px;
+	height: 214px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Video_7_e_Class {
+	position: absolute;
+	width: 383px;
+	height: 295px;
+	left: 814px;
+	top: 349px;
+	overflow: visible;
+}
+.Ellipse_3_fa {
+	position: absolute;
+	overflow: visible;
+	width: 41px;
+	height: 41px;
+	left: 0px;
+	top: 230px;
+}
+.Ellipse_4_fa {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 129px;
+	top: 284px;
+}
+.Video_Title___Title_of_the_vid_fa_Class {
+	position: absolute;
+	left: 51px;
+	top: 227px;
+	overflow: hidden;
+	width: 283px;
+	height: 27px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Channel_Name_fb_Class {
+	position: absolute;
+	left: 54px;
+	top: 259px;
+	overflow: visible;
+	width: 90px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.ID1M_Views_fc_Class {
+	position: absolute;
+	left: 54px;
+	top: 278px;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.ID1_year_ago_fd_Class {
+	position: absolute;
+	left: 138px;
+	top: 278px;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.Image_2_fe_Class {
+	position: absolute;
+	width: 383px;
+	height: 214px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Video_8_ff_Class {
+	position: absolute;
+	width: 383px;
+	height: 295px;
+	left: 1221px;
+	top: 349px;
+	overflow: visible;
+}
+.Ellipse_3_fg {
+	position: absolute;
+	overflow: visible;
+	width: 41px;
+	height: 41px;
+	left: 0px;
+	top: 230px;
+}
+.Ellipse_4_fh {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 129px;
+	top: 284px;
+}
+.Video_Title___Title_of_the_vid_fi_Class {
+	position: absolute;
+	left: 51px;
+	top: 227px;
+	overflow: hidden;
+	width: 283px;
+	height: 27px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Channel_Name_fj_Class {
+	position: absolute;
+	left: 54px;
+	top: 259px;
+	overflow: visible;
+	width: 90px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.ID1M_Views_fk_Class {
+	position: absolute;
+	left: 54px;
+	top: 278px;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.ID1_year_ago_fl_Class {
+	position: absolute;
+	left: 138px;
+	top: 278px;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+.Image_2_fm_Class {
+	position: absolute;
+	width: 383px;
+	height: 214px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
