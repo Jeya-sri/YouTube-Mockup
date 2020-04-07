@@ -3,4 +3,5 @@ This is a small youtube home page mockup done using vanilla CSS and HTML as part
 
 ### Mockup Screen (Created via Adobe Xd)
 
-![Homepage - Hamburger Menu Closed](/Home.png?raw=True)
+![Homepage - Hamburger Menu Closed](/Home.png?raw=True)  
+![Homepage - Hamburger Menu Open](/Home Transform.png?raw=True)
